@@ -1,0 +1,1 @@
+These are some basic java projects which I have coded just to practice some basic concepts. I was just practicing a moment with java and just thought of sharing it on my github profile. I hope it helps you a lot while practicing java. 
