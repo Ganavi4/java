@@ -27,7 +27,7 @@ class demo{
         // final float Ot =67.98F;
     
         // System.out.println(Ot);
- System.out.println(Math.pow(3,3));
+ System.out.println(Math.pow(3,3));       //in-built functions
  System.out.println(Math.random()*100);
 
 //  Scanner sc= new Scanner(System.in);
@@ -38,7 +38,7 @@ class demo{
 // System.out.println("your age is "+age);
 
 int[] marks ={98,89,98,98};
-try{
+try{                                    //exception handling
     System.out.println(marks[6]);
 }catch(Exception exception){
 
