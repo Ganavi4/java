@@ -1,3 +1,5 @@
+// FLAME Game 
+
 import java.util.Scanner;
 
 public class HangmanOut {
