@@ -7,6 +7,7 @@ public class RandomNum {
 
         int myNum=(int)(Math.random()*100);
         int myGuess=0;
+         sc.close();
         do{
             System.out.println("guess number:");
              myGuess=sc.nextInt();

@@ -1,12 +1,12 @@
 import java.util.Scanner;
-public class Main {
+public class DiceOpposite{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         
         while(true){
             System.out.println("enter a number 1 to 6");
              int num=sc.nextInt();
-             
+              sc.close();
              switch(num){
                 case 1:
                 System.out.println("the opposite side is 6");
@@ -31,7 +31,8 @@ public class Main {
                     return;
              }
         }
-    }
+    
+}
 }
 
 //or using if,elseif
